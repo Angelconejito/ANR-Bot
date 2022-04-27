@@ -10,5 +10,5 @@
 
 **Instalacion**
 
-$ git clone
+$git clone https://github.com/Angelconejito/Tazita-Bot.git
 
