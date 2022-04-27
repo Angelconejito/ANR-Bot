@@ -1,2 +1,2 @@
 # Tazita-Bot
-Raid Bot experimental
+**Commands (Comandos)**
