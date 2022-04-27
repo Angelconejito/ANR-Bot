@@ -1,5 +1,4 @@
-# Tazita-Bot
-**Comandos**
+## Comandos**
 - ☢️ Nuke: Destruiga completamente el servidor 
 - 🚫 Allban: Banea a todos los miembros del servidor
 - 🚪 Allkick: Expulsa a todos los miembros del servidor
@@ -8,16 +7,16 @@
 - 🌎 Invite: Link de invitacion del bot
 
 
-**Instalacion**
+## **Instalacion**
 ```
 $ git clone https://github.com/Angelconejito/Tazita-Bot.git
 $ cd Tazita-Bot/
 $ pip3 install -r requirements.txt
 ```
 
-**Configuracion**
+## **Configuracion**
 
-- Estos valores se cambian manualmente en el archivo "variables.txt"
+Estos valores se cambian manualmente en el archivo "variables.txt"
 
 | Opciones | README |
 | ------ | ------ |
