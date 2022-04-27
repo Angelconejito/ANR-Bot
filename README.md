@@ -13,6 +13,11 @@ $ git clone https://github.com/Angelconejito/Tazita-Bot.git
 $ cd Tazita-Bot/
 $ pip3 install -r requirements.txt
 ```
+## **Utilizacion**
+```
+$ cd Tazita-Bot/
+$ python3 index.py
+```
 
 ## **Configuracion**
 
