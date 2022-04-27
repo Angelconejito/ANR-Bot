@@ -17,7 +17,7 @@ $ pip3 install -r requirements.txt
 
 **Configuracion**
 
-Estos valores se cambian manualmente en el archivo "variables.txt"
+- Estos valores se cambian manualmente en el archivo "variables.txt"
 
 | Opciones | README |
 | ------ | ------ |
