@@ -1,4 +1,4 @@
-## Comandos**
+## **Comandos**
 - ☢️ Nuke: Destruiga completamente el servidor 
 - 🚫 Allban: Banea a todos los miembros del servidor
 - 🚪 Allkick: Expulsa a todos los miembros del servidor
