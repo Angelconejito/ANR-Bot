@@ -133,7 +133,7 @@ async def help(ctx):
         embed.add_field(name="🧹 **``Killchannels``**", value="Elimine todos los canales del servidor")
         embed.add_field(name="🚧️ **``Killroles``**", value="Elimine todos los roles del servidor")
         embed.add_field(name="☢️ **``Nuke``**", value="Manda a la mrda todo y destruye el servidor")
-        embed.add_field(name=":earth_americas: **``Invite``**", value="Link de invitacion para que me invites a raidear un server")
+        embed.add_field(name="🌎 **``Invite``**", value="Link de invitacion para que me invites a raidear un server")
         embed.add_field(name="Enlaces del bot", value="• Codigo fuente del bot: https://github.com/Angelconejito/Tazita-Bot", inline=False)
         embed.set_image(url="https://cdn.discordapp.com/attachments/930247067564118067/966480738998435861/help_banner_tazita.png")
         await ctx.reply(embed=embed, mention_author=False)
