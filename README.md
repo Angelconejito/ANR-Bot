@@ -9,6 +9,6 @@
 
 
 **Instalacion**
-
-$git clone https://github.com/Angelconejito/Tazita-Bot.git
-
+```
+$ git clone https://github.com/Angelconejito/Tazita-Bot.git
+```
