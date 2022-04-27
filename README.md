@@ -14,3 +14,12 @@ $ git clone https://github.com/Angelconejito/Tazita-Bot.git
 $ cd Tazita-Bot/
 $ pip3 install -r requirements.txt
 ```
+
+**Configuracion**
+
+| Opciones | README |
+| ------ | ------ |
+| token | Introduzca el token de su bot |
+| prefix | Cambie el prefix predefinido del bot |
+| server_name | Cambie el nombre del server raideado |
+| channels_name | Cambie el nombre de los canales a crear |
