@@ -21,7 +21,7 @@ $ python3 index.py
 
 ## **Configuracion**
 
-Estos valores se cambian manualmente en el archivo "variables.txt"
+Estos valores se cambian manualmente en el archivo "variables.json"
 
 | Opciones | README |
 | ------ | ------ |
