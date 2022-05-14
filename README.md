@@ -9,13 +9,13 @@
 
 ## **Instalacion**
 ```
-$ git clone https://github.com/Angelconejito/Tazita-Bot.git
-$ cd Tazita-Bot/
+$ git clone https://github.com/Angelconejito/ANR-Bot.git
+$ cd ANR-Bot/
 $ pip3 install -r requirements.txt
 ```
 ## **Utilizacion**
 ```
-$ cd Tazita-Bot/
+$ cd ANR-Bot/
 $ python3 index.py
 ```
 
